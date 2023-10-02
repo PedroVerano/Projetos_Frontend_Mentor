@@ -1,0 +1,8 @@
+@media (max-width: 375px) {
+    main {
+        max-width: 340px;
+    }
+    main h1 {
+        font-size: 25px;          
+    }
+}
